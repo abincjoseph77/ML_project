@@ -1,0 +1,51 @@
+property_id,location_name,taluk,village,latitude,longitude,land_area_cents,land_type,distance_to_school_km,distance_to_airport_km,distance_to_railway_station_km,distance_to_hospital_km,distance_to_medical_college_km,distance_to_bus_stop_km,price_lakhs
+1,Kozhikode City,Kozhikode,Calicut,11.2588,75.7804,5,residential,1.5,25.0,2.0,1.0,3.5,0.5,15.5
+2,Mavoor,Kozhikode,Mavoor,11.3320,75.9220,10,commercial,3.0,30.0,15.0,5.0,8.0,1.0,20.0
+3,Vadakara,Vadakara,Vadakara,11.5971,75.5804,15,residential,2.5,60.0,1.5,2.0,5.0,0.8,30.0
+4,Balussery,Kozhikode,Balussery,11.4208,75.8770,8,agricultural,4.0,35.0,12.0,6.0,10.0,2.0,10.0
+5,Thamarassery,Kozhikode,Thamarassery,11.4398,75.9529,12,residential,2.0,38.0,18.0,4.0,7.0,1.2,18.0
+6,Perambra,Kozhikode,Perambra,11.5103,75.7600,7,residential,3.5,45.0,10.0,5.5,9.0,1.5,12.0
+7,Kakkodi,Kozhikode,Kakkodi,11.2942,75.8368,6,commercial,1.8,28.0,8.0,3.0,6.0,0.7,16.5
+8,Koyilandy,Kozhikode,Koyilandy,11.4385,75.6980,10,residential,2.2,40.0,5.0,3.5,7.5,0.9,22.0
+9,Chemancheri,Koyilandy,Chemancheri,11.4285,75.7280,9,residential,2.5,42.0,6.0,4.0,8.0,1.1,19.0
+10,Kunnamangalam,Kozhikode,Kunnamangalam,11.3167,75.8778,11,commercial,1.0,26.0,10.0,2.5,5.0,0.6,25.0
+11,Pantalayini,Koyilandy,Pantalayini,11.4425,75.7000,8,residential,3.0,41.0,5.5,3.8,7.8,1.0,21.0
+12,Ulliyeri,Kozhikode,Ulliyeri,11.4650,75.7630,7,residential,2.8,38.0,12.0,4.5,8.5,1.3,16.0
+13,Mukkom,Kozhikode,Mukkom,11.3167,76.0167,10,residential,3.0,45.0,20.0,5.0,9.0,1.5,15.0
+14,Kattippara,Kozhikode,Kattippara,11.4667,76.0000,12,agricultural,5.0,48.0,22.0,7.0,11.0,2.5,8.0
+15,Narikkuni,Kozhikode,Narikkuni,11.3833,75.9833,9,residential,3.5,42.0,15.0,6.0,10.0,2.0,13.0
+16,Puthuppadi,Kozhikode,Puthuppadi,11.4667,75.9000,8,commercial,4.0,40.0,18.0,5.5,9.5,1.8,17.5
+17,Koduvally,Kozhikode,Koduvally,11.4333,75.9000,7,residential,2.5,37.0,16.0,4.0,8.0,1.0,14.0
+18,Chathamangalam,Kozhikode,Chathamangalam,11.3167,75.9500,10,residential,2.0,30.0,14.0,3.0,6.5,0.8,20.0
+19,Thikkodi,Koyilandy,Thikkodi,11.4700,75.6900,12,residential,3.2,45.0,8.0,4.5,9.0,1.4,24.0
+20,Kuttiyadi,Vadakara,Kuttiyadi,11.6420,75.8700,15,agricultural,6.0,70.0,25.0,10.0,15.0,3.0,7.0
+21,Kozhikode Port,Kozhikode,Calicut,11.2619,75.7681,5,commercial,2.0,26.0,3.0,1.5,4.0,0.6,18.0
+22,Beypore,Kozhikode,Beypore,11.2000,75.8167,8,residential,3.0,20.0,5.0,2.5,5.5,1.0,22.0
+23,Kakkur,Kozhikode,Kakkur,11.3500,75.8333,7,residential,2.5,30.0,12.0,4.0,7.0,1.2,15.5
+24,Kuruvattur,Kozhikode,Kuruvattur,11.3333,75.8500,9,residential,2.8,32.0,10.0,3.5,6.0,0.9,17.0
+25,Iringal,Koyilandy,Iringal,11.4667,75.7333,10,residential,3.5,40.0,7.0,4.5,8.0,1.1,20.5
+26,Nadapuram,Vadakara,Nadapuram,11.6400,75.6900,12,residential,4.0,65.0,20.0,6.0,10.0,1.8,25.0
+27,Panangad,Kozhikode,Panangad,11.3333,75.8833,6,commercial,1.5,35.0,14.0,3.0,6.0,0.7,19.0
+28,Vellimadukunnu,Kozhikode,Vellimadukunnu,11.2833,75.7667,8,residential,2.0,28.0,5.0,2.5,5.0,0.8,16.0
+29,Kizhakkoth,Kozhikode,Kizhakkoth,11.4167,75.9333,9,residential,3.0,40.0,17.0,5.0,8.5,1.3,14.5
+30,Kuttiyadi Village,Vadakara,Kuttiyadi,11.6420,75.8700,10,residential,5.0,70.0,25.0,10.0,15.0,2.5,10.0
+31,Peruvayal,Kozhikode,Peruvayal,11.3167,75.8833,8,residential,2.5,35.0,13.0,4.0,7.0,1.0,16.5
+32,Mokeri,Vadakara,Mokeri,11.6900,75.6900,15,residential,4.5,75.0,22.0,8.0,12.0,2.0,28.0
+33,Payyoli,Koyilandy,Payyoli,11.5333,75.6500,10,residential,3.8,50.0,9.0,5.0,9.5,1.5,22.5
+34,Chorode,Vadakara,Chorode,11.6000,75.5833,12,commercial,2.8,62.0,2.5,3.0,6.0,0.9,35.0
+35,Eranhikkal,Kozhikode,Eranhikkal,11.3000,75.7833,7,residential,1.2,27.0,4.0,2.0,4.5,0.5,18.5
+36,Keezhariyur,Koyilandy,Keezhariyur,11.4500,75.7500,9,residential,3.0,43.0,10.0,4.0,8.0,1.2,19.5
+37,Kuzhimanna,Kozhikode,Kuzhimanna,11.1667,75.9833,10,residential,4.0,30.0,25.0,6.0,10.0,1.8,12.0
+38,Kuzhithol,Kozhikode,Kuzhithol,11.3833,75.9667,8,agricultural,4.5,42.0,19.0,6.5,10.5,2.2,9.0
+39,Valayam,Vadakara,Valayam,11.6400,75.8000,14,residential,5.5,68.0,23.0,9.0,14.0,2.5,8.5
+40,Thiruvallur,Vadakara,Thiruvallur,11.6167,75.6333,11,commercial,3.5,60.0,18.0,5.0,9.0,1.5,28.0
+41,Balusseri,Kozhikode,Balusseri,11.4208,75.8770,10,residential,3.0,35.0,12.0,4.0,8.0,1.5,18.0
+42,Cheruvannur,Kozhikode,Cheruvannur,11.2333,75.8333,8,residential,2.5,22.0,7.0,3.0,6.0,1.0,16.5
+43,Kottappally,Vadakara,Kottappally,11.5833,75.5667,7,residential,2.0,58.0,3.0,2.5,5.5,0.8,20.0
+44,Nanminda,Kozhikode,Nanminda,11.3667,75.8167,9,residential,3.0,33.0,11.0,4.0,7.0,1.2,14.0
+45,Kakkancheri,Kozhikode,Kakkancheri,11.2667,75.8500,12,commercial,2.5,25.0,10.0,3.5,6.5,0.9,21.0
+46,Kozhikode Beach,Kozhikode,Calicut,11.2600,75.7600,5,residential,1.8,28.0,3.5,1.5,4.0,0.6,17.0
+47,Puthur,Kozhikode,Puthur,11.3167,75.7667,8,residential,2.0,27.0,6.0,2.5,5.0,0.8,15.0
+48,Kuruvangad,Koyilandy,Kuruvangad,11.4833,75.7000,10,residential,3.5,45.0,9.0,5.0,9.0,1.5,23.0
+49,Thiruvangoor,Koyilandy,Thiruvangoor,11.4333,75.7167,7,residential,3.0,41.0,6.0,4.0,8.0,1.1,20.0
+50,Muttil,Kozhikode,Muttil,11.5333,75.8333,10,residential,4.0,48.0,13.0,6.0,10.0,2.0,11.0
