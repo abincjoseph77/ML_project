@@ -1,0 +1,51 @@
+id,country_name,city_name,airport_name,latitude,longitude,month,season_type,high_passenger_season,ticket_price,planes_day,econ_seats_day,busi_seats_day,load_factor,occupancy
+1,Netherlands,Thiruvananthapuram,AMS,8.5234,76.9123,11,commercial,1,52.2,17.2,4.6,2.9,1.0,29.1
+2,Spain,Kunnamangalam,MAD,11.1245,76.0321,12,festival,1,27.2,17.0,3.4,3.3,0.9,38.5
+3,Germany,Thiruvananthapuram,ZRH,8.4876,77.0543,2,commercial,1,54.8,14.9,1.8,1.4,0.8,41.0
+4,UK,Kozhikode,CDG,11.2356,75.7890,10,holiday,0,49.1,11.3,4.6,2.0,0.9,17.1
+5,Germany,Kannur,MAD,11.8765,75.3421,5,holiday,1,37.4,13.6,1.3,4.0,0.7,22.7
+6,France,Kochi,LHR,9.9312,76.2673,3,commercial,1,45.6,15.8,3.9,2.5,0.95,31.2
+7,Italy,Thiruvananthapuram,FCO,8.6543,76.8765,7,festival,1,39.8,12.4,2.8,1.9,0.85,27.4
+8,Switzerland,Kozhikode,ZRH,11.5432,75.8765,1,holiday,0,61.3,10.2,1.5,1.1,0.75,19.8
+9,Belgium,Kannur,BRU,12.0123,75.2345,9,commercial,1,43.7,16.1,3.2,2.7,0.92,33.6
+10,Austria,Kochi,VIE,9.8765,76.3456,4,festival,1,47.9,14.3,2.6,2.2,0.88,28.9
+11,Sweden,Thiruvananthapuram,ARN,8.7654,76.9876,6,holiday,1,58.4,13.7,2.1,1.8,0.82,25.3
+12,Denmark,Kozhikode,CPH,11.3456,75.6543,8,commercial,0,50.2,12.9,3.0,2.3,0.87,26.7
+13,Portugal,Kannur,LIS,11.9876,75.1234,11,festival,1,41.5,15.2,2.9,2.4,0.9,30.1
+14,Greece,Kochi,ATH,9.7654,76.4321,12,holiday,1,44.3,11.8,2.2,1.7,0.8,24.5
+15,Poland,Thiruvananthapuram,WAW,8.8765,76.7654,2,commercial,0,49.7,10.5,1.9,1.3,0.78,21.2
+16,Czech Republic,Kozhikode,PRG,11.4567,75.5432,5,festival,1,46.8,14.7,3.1,2.6,0.89,32.0
+17,Hungary,Kannur,BUD,12.1234,75.0987,7,holiday,1,42.1,13.2,2.5,2.0,0.84,27.8
+18,Norway,Kochi,OSL,9.6543,76.5432,10,commercial,0,57.9,12.1,2.0,1.5,0.79,23.4
+19,Finland,Thiruvananthapuram,HEL,8.9876,76.6543,3,festival,1,53.6,15.5,3.3,2.8,0.91,34.2
+20,Ireland,Kozhikode,DUB,11.2345,75.8765,1,holiday,0,55.2,11.0,1.7,1.2,0.76,20.1
+21,Croatia,Kannur,ZAG,12.2345,75.0123,4,commercial,1,40.9,14.0,2.7,2.1,0.86,29.3
+22,Romania,Kochi,OTP,9.5432,76.6543,6,festival,1,43.2,13.4,2.4,1.9,0.83,26.9
+23,Bulgaria,Thiruvananthapuram,SOF,8.7654,76.8765,9,holiday,0,39.5,12.6,2.3,1.8,0.81,25.7
+24,Slovakia,Kozhikode,BTS,11.3456,75.7654,12,commercial,1,45.1,15.9,3.0,2.5,0.88,31.5
+25,Slovenia,Kannur,LJU,12.3456,75.0456,8,festival,1,41.8,14.2,2.6,2.2,0.85,28.3
+26,Estonia,Kochi,TLL,9.4321,76.7654,2,holiday,0,52.7,10.8,1.8,1.4,0.77,22.1
+27,Latvia,Thiruvananthapuram,RIX,8.6543,76.9876,5,commercial,1,48.3,15.1,2.9,2.4,0.89,30.8
+28,Lithuania,Kozhikode,VNO,11.4567,75.6543,7,festival,1,44.9,13.8,2.5,2.0,0.84,27.6
+29,Iceland,Kannur,KEF,12.4567,75.0123,11,holiday,1,68.4,9.5,1.2,0.9,0.72,18.3
+30,Malta,Kochi,MLA,9.3210,76.8765,1,commercial,0,42.6,14.5,2.8,2.3,0.87,29.9
+31,Cyprus,Thiruvananthapuram,LCA,8.5432,76.9876,3,festival,1,40.2,13.9,2.6,2.1,0.85,28.0
+32,USA,Kozhikode,JFK,11.5678,75.5432,6,holiday,1,72.5,8.7,1.0,0.7,0.70,16.5
+33,Canada,Kannur,YYZ,12.5678,75.0345,9,commercial,0,69.8,9.2,1.3,0.9,0.73,17.8
+34,Australia,Kochi,SYD,9.2109,76.9876,12,festival,1,85.3,7.8,0.9,0.6,0.68,15.2
+35,New Zealand,Thiruvananthapuram,AKL,8.4321,76.8765,2,holiday,0,88.7,7.5,0.8,0.5,0.65,14.1
+36,Japan,Kozhikode,NRT,11.6789,75.4321,4,commercial,1,63.9,10.4,1.6,1.1,0.78,20.9
+37,South Korea,Kannur,ICN,12.6789,75.0234,5,festival,1,65.2,11.1,1.7,1.2,0.80,22.3
+38,China,Kochi,PEK,9.1098,76.7654,7,holiday,1,58.6,12.3,2.0,1.5,0.82,24.8
+39,Thailand,Thiruvananthapuram,BKK,8.3210,76.6543,10,commercial,1,34.7,18.2,4.2,3.1,0.94,36.4
+40,Vietnam,Kozhikode,SGN,11.7890,75.3210,11,festival,1,36.9,17.5,3.8,2.9,0.92,35.1
+41,Singapore,Kannur,SIN,12.7890,75.0123,1,holiday,0,30.5,20.1,5.0,3.8,0.96,39.2
+42,Malaysia,Kochi,KUL,9.0987,76.5432,3,commercial,1,28.9,19.3,4.7,3.5,0.95,37.8
+43,Indonesia,Thiruvananthapuram,CGK,8.2109,76.4321,6,festival,1,32.4,18.7,4.3,3.2,0.93,36.0
+44,Philippines,Kozhikode,MNL,11.8901,75.2109,8,holiday,1,35.8,16.9,3.9,2.8,0.90,33.2
+45,UAE,Kannur,DXB,12.8901,75.0012,12,commercial,1,23.6,22.5,6.0,4.5,0.98,42.5
+46,Qatar,Kochi,DOH,9.0876,76.3210,2,festival,1,25.1,21.8,5.7,4.2,0.97,41.3
+47,Saudi Arabia,Thiruvananthapuram,RUH,8.1098,76.2109,4,holiday,0,27.3,19.6,4.8,3.6,0.94,38.0
+48,Egypt,Kozhikode,CAI,11.9012,75.1098,5,commercial,1,29.7,17.8,4.1,3.0,0.91,34.5
+49,Turkey,Kannur,IST,12.9012,75.0001,7,festival,1,37.2,16.4,3.7,2.7,0.89,32.8
+50,Russia,Kochi,SVO,9.0765,76.1098,10,holiday,0,51.4,13.0,2.2,1.6,0.83,25
